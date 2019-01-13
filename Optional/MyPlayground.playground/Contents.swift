@@ -49,3 +49,4 @@ func whatIsOptional(_ value: Optional<Any>) {
 whatIsOptional(x)
 x = 2
 whatIsOptional(x)
+// add downcasting here
