@@ -50,3 +50,4 @@ whatIsOptional(x)
 x = 2
 whatIsOptional(x)
 // add downcasting here
+// add compactMap example
